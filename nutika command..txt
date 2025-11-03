@@ -1,0 +1,1 @@
+nuitka --standalone --onefile auto_shutdown.py --windows-disable-console --windows-icon-from-ico=shutdown.ico --windows-company-name="Echnology" --windows-product-name="***********" --windows-file-version="1.0.0" --windows-product-version="1.0.0" --plugin-enable=tk-inter --lto=yes --jobs=4
